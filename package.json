@@ -13,15 +13,14 @@
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-maps": "0.0.2",
     "hubot-pugme": "^0.1.0",
+    "hubot-quote": "^3.0.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.2",
     "hubot-slack": "^3.3.0",
     "hubot-youtube": "^0.1.2",
-    "underscore": "^1.8.3",
-    "natural": "~0.1.28",
-    "msgpack": "~0.2.4"
+    "underscore": "^1.8.3"
   },
   "engines": {
     "node": "0.10.x"
